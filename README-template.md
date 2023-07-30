@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Server URL](https://your-live-site-url.com)
+- Live Site URL: [Live Server URL](https://prasannapandhare.github.io/3-column-preview-card.github.io/)
 
 ## My process
 
